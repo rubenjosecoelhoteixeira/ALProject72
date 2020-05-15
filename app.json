@@ -15,5 +15,6 @@
   "application": "15.0.0.0",
   "showMyCode": true,
   "runtime": "4.0",
-  "target": "OnPrem"
+  "target": "OnPrem",
+  "features": ["TranslationFile"]
 }
